@@ -1,0 +1,10 @@
+C:\Users\nelso\source\repos\Library\Vista\bin\Debug\Vista.exe.config
+C:\Users\nelso\source\repos\Library\Vista\bin\Debug\Vista.exe
+C:\Users\nelso\source\repos\Library\Vista\bin\Debug\Vista.pdb
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.Login.resources
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.exe
+C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.pdb

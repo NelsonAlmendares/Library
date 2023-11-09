@@ -1,0 +1,9 @@
+C:\Users\nelso\source\repos\Library\Controller\bin\Debug\Controller.dll
+C:\Users\nelso\source\repos\Library\Controller\bin\Debug\Controller.pdb
+C:\Users\nelso\source\repos\Library\Controller\bin\Debug\Modelo.dll
+C:\Users\nelso\source\repos\Library\Controller\bin\Debug\Modelo.pdb
+C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.dll
+C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.pdb
