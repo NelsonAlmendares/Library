@@ -54,6 +54,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register_Product.Designer.cs">
+      <DependentUpon>Register_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Product.Designer.cs">
+      <DependentUpon>Search_Product.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -66,6 +78,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Register_Product.resx">
+      <DependentUpon>Register_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Product.resx">
+      <DependentUpon>Search_Product.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

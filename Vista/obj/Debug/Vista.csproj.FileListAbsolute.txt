@@ -8,3 +8,19 @@ C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.csproj.GenerateResourc
 C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.exe
 C:\Users\nelso\source\repos\Library\Vista\obj\Debug\Vista.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Vista.exe.config
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Vista.exe
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Vista.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Controller.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Modelo.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Controller.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\bin\Debug\Modelo.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.Login.resources
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.exe
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Vista\obj\Debug\Vista.pdb
