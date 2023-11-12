@@ -4,3 +4,15 @@ C:\Users\nelso\source\repos\Library\Modelo\obj\Debug\Modelo.csproj.AssemblyRefer
 C:\Users\nelso\source\repos\Library\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\nelso\source\repos\Library\Modelo\obj\Debug\Modelo.dll
 C:\Users\nelso\source\repos\Library\Modelo\obj\Debug\Modelo.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\bin\Debug\Modelo.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\bin\Debug\Modelo.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\obj\Debug\Modelo.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Modelo\obj\Debug\Modelo.pdb
+E:\Descargas\Library-Morataya\Modelo\bin\Debug\Modelo.dll
+E:\Descargas\Library-Morataya\Modelo\bin\Debug\Modelo.pdb
+E:\Descargas\Library-Morataya\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+E:\Descargas\Library-Morataya\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Descargas\Library-Morataya\Modelo\obj\Debug\Modelo.dll
+E:\Descargas\Library-Morataya\Modelo\obj\Debug\Modelo.pdb

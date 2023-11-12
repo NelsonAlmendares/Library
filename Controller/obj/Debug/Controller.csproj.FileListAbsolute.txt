@@ -7,3 +7,21 @@ C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.csproj.CoreC
 C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.csproj.CopyComplete
 C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.dll
 C:\Users\nelso\source\repos\Library\Controller\obj\Debug\Controller.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\bin\Debug\Controller.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\bin\Debug\Controller.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\bin\Debug\Modelo.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\bin\Debug\Modelo.pdb
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\obj\Debug\Controller.dll
+C:\Users\HP\Desktop\UDB\PROYECTO CATEDRA MDB\PROYECTO\Library\Controller\obj\Debug\Controller.pdb
+E:\Descargas\Library-Morataya\Controller\bin\Debug\Controller.dll
+E:\Descargas\Library-Morataya\Controller\bin\Debug\Controller.pdb
+E:\Descargas\Library-Morataya\Controller\bin\Debug\Modelo.dll
+E:\Descargas\Library-Morataya\Controller\bin\Debug\Modelo.pdb
+E:\Descargas\Library-Morataya\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+E:\Descargas\Library-Morataya\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+E:\Descargas\Library-Morataya\Controller\obj\Debug\Controller.csproj.CopyComplete
+E:\Descargas\Library-Morataya\Controller\obj\Debug\Controller.dll
+E:\Descargas\Library-Morataya\Controller\obj\Debug\Controller.pdb
